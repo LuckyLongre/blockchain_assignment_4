@@ -13,11 +13,15 @@ The first step in any blockchain-based project is to have a wallet. MetaMask is 
 - Created a new MetaMask wallet.
 - Saved the **Secret Recovery Phrase** in a secure place. This phrase is very important as it is the only way to recover the wallet if something goes wrong.
 
-📸 **Screenshots:**
-- `Step1_1_MetaMask_Download_Page.png`
-- `Step1_2_Create_Wallet_Screen.png`
-- `Step1_3_Secret_Recovery_Phrase.png`
-- `Step1_4_Wallet_Ready_Homepage.png`
+### 📸 Screenshots:
+1. **MetaMask Download Page**
+   ![MetaMask Download Page](images/Step1_1_MetaMask_Download_Page.png)
+2. **Create Wallet Screen**
+   ![Create Wallet Screen](images/Step1_2_Create_Wallet_Screen.png)
+3. **Secret Recovery Phrase**
+   ![Secret Recovery Phrase](images/Step1_3_Secret_Recovery_Phrase.png)
+4. **Wallet Ready Homepage**
+   ![Wallet Ready Homepage](images/Step1_4_Wallet_Ready_Homepage.png)
 
 📝 *Note: Never share your secret recovery phrase with anyone.*
 
@@ -31,10 +35,13 @@ Since Ethereum mainnet uses real ETH, we use test networks like Sepolia for prac
 - Selected or added the **Sepolia Test Network**.
 - Switched from the Ethereum mainnet to the Sepolia network.
 
-📸 **Screenshots:**
-- `Step2_1_Network_Dropdown_List.png`
-- `Step2_2_Add_Network_Screen.png`
-- `Step2_3_Sepolia_Added_Successfully.png`
+### 📸 Screenshots:
+1. **Network Dropdown List**
+   ![Network Dropdown List](images/Step2_1_Network_Dropdown_List.png)
+2. **Add Network Screen**
+   ![Add Network Screen](images/Step2_2_Add_Network_Screen.png)
+3. **Sepolia Added Successfully**
+   ![Sepolia Added Successfully](images/Step2_3_Sepolia_Added_Successfully.png)
 
 📝 *This allows us to interact with the blockchain without using real money.*
 
@@ -49,11 +56,15 @@ Sepolia ETH (test ETH) is used for simulating transactions on the test network.
 - Clicked on **Request Tokens**.
 - Waited for a few seconds and then confirmed the transaction in MetaMask.
 
-📸 **Screenshots:**
-- `Step3_1_GCloudFaucet_Home.png`
-- `Step3_2_Request_Tokens_Clicked.png`
-- `Step3_3_Drip_Confirmation.png`
-- `Step3_4_MetaMask_ETH_Received.png`
+### 📸 Screenshots:
+1. **Google Cloud Faucet Home**
+   ![Google Cloud Faucet Home](images/Step3_1_GCloudFaucet_Home.png)
+2. **Request Tokens Clicked**
+   ![Request Tokens Clicked](images/Step3_2_Request_Tokens_Clicked.png)
+3. **Drip Confirmation**
+   ![Drip Confirmation](images/Step3_3_Drip_Confirmation.png)
+4. **ETH Received in MetaMask**
+   ![ETH Received in MetaMask](images/Step3_4_MetaMask_ETH_Received.png)
 
 📝 *Sepolia ETH has no real-world value but is useful for testing smart contracts and blockchain features.*
 
@@ -68,12 +79,17 @@ To simulate a real transaction, we transferred Sepolia ETH from one MetaMask acc
 - From the first account, we clicked on **Send**, pasted the address, and sent 0.01 ETH.
 - Checked the second account to confirm the ETH was received.
 
-📸 **Screenshots:**
-- `Step4_1_Create_Second_Account.png`
-- `Step4_2_Copy_Receiver_Address.png`
-- `Step4_3_Send_From_Account1.png`
-- `Step4_4_Transaction_Confirmation.png`
-- `Step4_5_Account2_Received_ETH.png`
+### 📸 Screenshots:
+1. **Create Second Account**
+   ![Create Second Account](images/Step4_1_Create_Second_Account.png)
+2. **Copy Receiver Address**
+   ![Copy Receiver Address](images/Step4_2_Copy_Receiver_Address.png)
+3. **Send From Account 1**
+   ![Send From Account 1](images/Step4_3_Send_From_Account1.png)
+4. **Transaction Confirmation**
+   ![Transaction Confirmation](images/Step4_4_Transaction_Confirmation.png)
+5. **Account 2 Received ETH**
+   ![Account 2 Received ETH](images/Step4_5_Account2_Received_ETH.png)
 
 📝 *This step helps us understand how transactions work on the blockchain.*
 
